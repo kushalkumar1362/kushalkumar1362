@@ -35,10 +35,12 @@
 <a href= https://github.com/https://github.com/kushalkumar1362?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/kushal-kumar-5957b4277/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<h2> Connect with me </h2>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/kushal-kumar-5957b4277/'> <img width = '32px' align= 'center'src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/Kushalkumar1362'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/https://github.com/kushalkumar1362'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<img align= 'center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 <hr></hr>
 
                                                         🏆 My Github Stats 🏆
@@ -57,5 +59,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalkumar1362&langs_count=10&show_icons=true&theme=radical"> </p>
 
 <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="LeetCode" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;">
-
+<hr></hr>
 <footer align="center">Thank you for visiting my profile! 😊</footer>
