@@ -35,10 +35,18 @@
 <a href= https://github.com/https://github.com/kushalkumar1362?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 
 
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/kushal-kumar-5957b4277/'> <img width = '32px' align= 'center'src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/https://twitter.com/Kushalkumar1362'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/https://github.com/kushalkumar1362'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Kushalkumar1362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamahsan_khn_" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/kushal-kumar-5957b4277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushalkumar1362" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/just_._kushal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam4hsan_khn" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/KKumarMay2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahsank11" height="30" width="40" /></a>
+
+</p>
 
 <img align= 'center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 <hr></hr>
