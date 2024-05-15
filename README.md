@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kushalkumar1362)
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines==Hey%2C+I'm+Kushal+Kumar." align="middle" alt="Hey, I'm Kushal Kumar animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=47&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Kushal+Kumar." align="middle" alt="Hey, I'm Kushal Kumar animated typed out">
 
 </p>
 <div size='20px'>Thank You for taking the time to view my GitHub Profile :smile: 
