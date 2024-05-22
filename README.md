@@ -53,7 +53,8 @@
 <img align= 'center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 <hr></hr>
 
-                                                        🏆 My Github Stats 🏆
+<h1 align = 'center'> 🏆 My Github Stats 🏆</h1>
+                                                        
 <table>
       <thead>
             <tr>
