@@ -20,8 +20,6 @@
 
 - 🔭 I’m currently working on a comprehensive platform for both job seekers and employers.
 
-- 🌱 I’m currently learning react.js 
-
 - 👯 I’m looking to collaborate on projects,  tech articles... 
 
 - 💬 Talk to me about DSA,  JavaScript,  Freelancing opportunities,  Open Source... 
