@@ -18,9 +18,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-- 🔭 I’m currently working on a comprehensive platform for both job seekers and employers.
+- 🔭 Currently, I'm working as a Software Developer at CodeQuotient, where I contribute to building advanced UI components and optimizing platform functionalities.
 
-- 👯 I’m looking to collaborate on projects,  tech articles... 
+- 👯 I am always eager to learn, innovate, and contribute to impactful projects. Open to networking, collaboration, and exciting new opportunities in tech!
 
 - 💬 Talk to me about DSA,  JavaScript,  Freelancing opportunities,  Open Source... 
 
