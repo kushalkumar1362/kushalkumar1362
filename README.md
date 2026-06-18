@@ -41,8 +41,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kushalkumar1362&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=kushalkumar1362&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kushalkumar1362&show_icons=true&theme=tokyonight&rank_icon=github" 
 </p>
 
 <p align="center">
